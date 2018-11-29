@@ -75,17 +75,16 @@ Try to implement basic ML Algorithms on your own using numpy. Afterwards you may
 
 #### Additional Misc Resources : 
 * Youtube
-    * Siraj Raval
-    * The Coding Train
-    * 3Blue1Brown
-    * Two Minute Papers
-    * SentDex 
+    * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+    * [The Coding Train](https://www.youtube.com/user/shiffman)
+    * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+    * [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+    * [SentDex](https://www.youtube.com/user/sentdex)
 * Blogs :
     * [Sebastian Ruder]( http://ruder.io/ )
     * [Towards Data Science]( https://towardsdatascience.com/ )(Medium)
     * Other Medium Publications including [ML]( https://machinelearnings.co/ ) and [IM]( https://medium.com/intuitionmachine )
-    * Machine Learning Mastery
-    * PyImageSearch(for Computer Vision and Related Tasks)
+    * [Machine Learning Mastery](https://machinelearningmastery.com/)
     * [Christopher Olah]( http://colah.github.io/ )
 * Machine Learning Subreddit
     * [WAYR Thread](https://www.reddit.com/r/MachineLearning/comments/9s9el5/d_machine_learning_wayr_what_are_you_reading_week/)
