@@ -59,6 +59,9 @@ Try to implement basic ML Algorithms on your own using numpy. Afterwards you may
 * [Deep Learning by Google on Udacity]( https://in.udacity.com/course/deep-learning--ud730-india )[RECOMMENDED]
 * [Kaggle - Deep Learning]( https://www.kaggle.com/learn/deep-learning ) 
 
+#### Maths Needed For Deep Learning
+* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
+
 #### Reference Books :
 * [The Deep Learning Book]( https://www.deeplearningbook.org/ )
 * [Artificial Intelligence : A modern approach (Peter Norvig )]( https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf )
@@ -85,7 +88,9 @@ Try to implement basic ML Algorithms on your own using numpy. Afterwards you may
     * Machine Learning Mastery
     * PyImageSearch(for Computer Vision and Related Tasks)
     * [Christopher Olah]( http://colah.github.io/ )
-
+* Machine Learning Subreddit
+    * [WAYR Thread](https://www.reddit.com/r/MachineLearning/comments/9s9el5/d_machine_learning_wayr_what_are_you_reading_week/)
+    
 For Deep Learning, trying to implement a basic 3 layer Neural Network in Numpy for solving the XOR problem proves to be a great kickstarting task.
 ( Refer to [DL CheatSheet]( https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning ) and other online tutorials, including YouTube if you get stuck)
 Additionally go over to [Kaggle]( https://www.kaggle.com/ ) and try to solve a few problems, taking cues from solved ipython notebooks and kernels.
