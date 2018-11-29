@@ -1,5 +1,4 @@
 # DS&ML Learning Resources
----
 
 ### Data Structures and Algorithms :
 The following resources are for learning basic Algorithm/Data-Structures Stuff that is invaluable for any field of CS. We shall need lots of basic concepts from these domains and a strong base in this regard is required for serious research in any subfield of CS, especially math/computation intensive fields like Data Science and ML/DL.
